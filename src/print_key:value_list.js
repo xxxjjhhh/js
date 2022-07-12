@@ -10,4 +10,4 @@ console.log(Object.value(person)); //["Kim", "Seoul"]
 
 //entire
 
-console.log(Object.entries(person));
+console.log(Object.entries(person)); //[["name", "Kim:], ["address", "Seoul"]]
