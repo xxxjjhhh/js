@@ -19,4 +19,4 @@ const person2 = new person();
 console.log(person2); //빈 객체 person {}
 
 person2.a = '2';
-console.log(person2); 객체 출력 person { a: '2' }
+console.log(person2); //객체 출력 person { a: '2' }
